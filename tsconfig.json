@@ -13,5 +13,5 @@
     "jsx": "react-jsx",
     "strict": true
   },
-  "include": ["src", "woodwork-website.tsx"]
+  "include": ["src"]
 }
